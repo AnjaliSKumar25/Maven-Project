@@ -17,7 +17,7 @@ public class HashMapExample {
 		   {    
 		    System.out.println(m.getKey()+" "+m.getValue());    
 		   }  
-
+		   System.out.println("Changes");  
 	}
 
 }
